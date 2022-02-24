@@ -1,0 +1,22 @@
+C:\Users\Joud Khattab\Desktop\CG Lesson2\CG Lesson2\bin\Debug\CG Lesson2.exe.config
+C:\Users\Joud Khattab\Desktop\CG Lesson2\CG Lesson2\bin\Debug\CG Lesson2.exe
+C:\Users\Joud Khattab\Desktop\CG Lesson2\CG Lesson2\bin\Debug\CG Lesson2.pdb
+C:\Users\Joud Khattab\Desktop\CG Lesson2\CG Lesson2\obj\Debug\CG Lesson2.csprojAssemblyReference.cache
+C:\Users\Joud Khattab\Desktop\CG Lesson2\CG Lesson2\obj\Debug\CG_Lesson2.Properties.Resources.resources
+C:\Users\Joud Khattab\Desktop\CG Lesson2\CG Lesson2\obj\Debug\CG Lesson2.csproj.GenerateResource.cache
+C:\Users\Joud Khattab\Desktop\CG Lesson2\CG Lesson2\obj\Debug\CG Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\Joud Khattab\Desktop\CG Lesson2\CG Lesson2\obj\Debug\CG Lesson2.exe
+C:\Users\Joud Khattab\Desktop\CG Lesson2\CG Lesson2\obj\Debug\CG Lesson2.pdb
+C:\Users\Joud Khattab\Desktop\CG Lesson2\CG Lesson2\obj\Debug\CG Lesson2.csproj.CopyComplete
+C:\Users\Joud Khattab\Desktop\CG Lesson2\CG Lesson2\obj\Debug\CG_Lesson2.Form.resources
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG Lesson2\bin\Debug\CG Lesson2.exe.config
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG Lesson2\bin\Debug\CG Lesson2.exe
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG Lesson2\bin\Debug\CG Lesson2.pdb
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG Lesson2\obj\Debug\CG Lesson2.csprojAssemblyReference.cache
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG Lesson2\obj\Debug\CG_Lesson2.Form.resources
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG Lesson2\obj\Debug\CG_Lesson2.Properties.Resources.resources
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG Lesson2\obj\Debug\CG Lesson2.csproj.GenerateResource.cache
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG Lesson2\obj\Debug\CG Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG Lesson2\obj\Debug\CG Lesson2.csproj.CopyComplete
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG Lesson2\obj\Debug\CG Lesson2.exe
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG Lesson2\obj\Debug\CG Lesson2.pdb

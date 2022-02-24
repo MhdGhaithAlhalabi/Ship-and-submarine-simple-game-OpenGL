@@ -1,0 +1,51 @@
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\bin\Debug\CG.exe.config
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\bin\Debug\CG.exe
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\bin\Debug\CG.pdb
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\obj\Debug\CG.csprojAssemblyReference.cache
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\obj\Debug\CG.Form.resources
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\obj\Debug\CG.Properties.Resources.resources
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\obj\Debug\CG.csproj.GenerateResource.cache
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\obj\Debug\CG.csproj.CoreCompileInputs.cache
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\obj\Debug\CG.csproj.CopyComplete
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\obj\Debug\CG.exe
+C:\Users\Joud Khattab\Desktop\CG Lesson3\CG\obj\Debug\CG.pdb
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\bin\Debug\CG.exe.config
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\bin\Debug\CG.exe
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\bin\Debug\CG.pdb
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\obj\Debug\CG.csprojAssemblyReference.cache
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\obj\Debug\CG.Form.resources
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\obj\Debug\CG.Properties.Resources.resources
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\obj\Debug\CG.csproj.GenerateResource.cache
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\obj\Debug\CG.csproj.CoreCompileInputs.cache
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\obj\Debug\CG.csproj.CopyComplete
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\obj\Debug\CG.exe
+C:\Users\Joud Khattab\Desktop\Lecture 3 (Simple Shapes)\CG Lesson3\CG\obj\Debug\CG.pdb
+D:\JoudKh\Teaching\2018 - 2019 - 1\CG\Lab\Lecture 8 (Texturing)\CG Lesson8\CG\bin\Debug\CG.exe.config
+D:\JoudKh\Teaching\2018 - 2019 - 1\CG\Lab\Lecture 8 (Texturing)\CG Lesson8\CG\bin\Debug\CG.exe
+D:\JoudKh\Teaching\2018 - 2019 - 1\CG\Lab\Lecture 8 (Texturing)\CG Lesson8\CG\bin\Debug\CG.pdb
+D:\JoudKh\Teaching\2018 - 2019 - 1\CG\Lab\Lecture 8 (Texturing)\CG Lesson8\CG\obj\Debug\CG.csprojAssemblyReference.cache
+D:\JoudKh\Teaching\2018 - 2019 - 1\CG\Lab\Lecture 8 (Texturing)\CG Lesson8\CG\obj\Debug\CG.Form.resources
+D:\JoudKh\Teaching\2018 - 2019 - 1\CG\Lab\Lecture 8 (Texturing)\CG Lesson8\CG\obj\Debug\CG.Properties.Resources.resources
+D:\JoudKh\Teaching\2018 - 2019 - 1\CG\Lab\Lecture 8 (Texturing)\CG Lesson8\CG\obj\Debug\CG.csproj.GenerateResource.cache
+D:\JoudKh\Teaching\2018 - 2019 - 1\CG\Lab\Lecture 8 (Texturing)\CG Lesson8\CG\obj\Debug\CG.csproj.CoreCompileInputs.cache
+D:\JoudKh\Teaching\2018 - 2019 - 1\CG\Lab\Lecture 8 (Texturing)\CG Lesson8\CG\obj\Debug\CG.csproj.CopyComplete
+D:\JoudKh\Teaching\2018 - 2019 - 1\CG\Lab\Lecture 8 (Texturing)\CG Lesson8\CG\obj\Debug\CG.exe
+D:\JoudKh\Teaching\2018 - 2019 - 1\CG\Lab\Lecture 8 (Texturing)\CG Lesson8\CG\obj\Debug\CG.pdb
+C:\Users\Ghaith\Desktop\Lecture 9 (Texturing)\Lecture 8\CG\bin\Debug\CG.exe.config
+C:\Users\Ghaith\Desktop\Lecture 9 (Texturing)\Lecture 8\CG\obj\Debug\CG.exe
+C:\Users\Ghaith\Desktop\Lecture 9 (Texturing)\Lecture 8\CG\obj\Debug\CG.pdb
+C:\Users\Ghaith\Desktop\Lecture 9 (Texturing)\Lecture 8\CG\bin\Debug\CG.exe
+C:\Users\Ghaith\Desktop\Lecture 9 (Texturing)\Lecture 8\CG\bin\Debug\CG.pdb
+C:\Users\Ghaith\Desktop\Lecture 9 (Texturing)\Lecture 8\CG\obj\Debug\CG.csprojResolveAssemblyReference.cache
+C:\Users\Ghaith\Desktop\Lecture 9 (Texturing)\Lecture 8\CG\obj\Debug\CG.Form.resources
+C:\Users\Ghaith\Desktop\Lecture 9 (Texturing)\Lecture 8\CG\obj\Debug\CG.Properties.Resources.resources
+C:\Users\Ghaith\Desktop\Lecture 9 (Texturing)\Lecture 8\CG\obj\Debug\CG.csproj.GenerateResource.Cache
+C:\Users\Ghaith\Desktop\cg project\Lecture 8\CG\bin\Debug\CG.exe.config
+C:\Users\Ghaith\Desktop\cg project\Lecture 8\CG\obj\Debug\CG.exe
+C:\Users\Ghaith\Desktop\cg project\Lecture 8\CG\obj\Debug\CG.pdb
+C:\Users\Ghaith\Desktop\cg project\Lecture 8\CG\bin\Debug\CG.exe
+C:\Users\Ghaith\Desktop\cg project\Lecture 8\CG\bin\Debug\CG.pdb
+C:\Users\Ghaith\Desktop\cg project\Lecture 8\CG\obj\Debug\CG.csprojResolveAssemblyReference.cache
+C:\Users\Ghaith\Desktop\cg project\Lecture 8\CG\obj\Debug\CG.Form.resources
+C:\Users\Ghaith\Desktop\cg project\Lecture 8\CG\obj\Debug\CG.Properties.Resources.resources
+C:\Users\Ghaith\Desktop\cg project\Lecture 8\CG\obj\Debug\CG.csproj.GenerateResource.Cache
